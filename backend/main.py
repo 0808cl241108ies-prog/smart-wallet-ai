@@ -26,6 +26,7 @@ app.add_middleware(
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "https://smart-wallet-ai-two.vercel.app",
+        "https://allet-knppw7v7t-manohar-b029.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
