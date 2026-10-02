@@ -1,0 +1,37 @@
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    background:white;
+    padding:15px 25px;
+    border-radius:12px;
+}
+
+.search-box{
+    display:flex;
+    align-items:center;
+    gap:10px;
+}
+
+.search-box input{
+    border:none;
+    outline:none;
+    font-size:16px;
+}
+
+.navbar-right{
+    display:flex;
+    align-items:center;
+    gap:20px;
+}
+
+.icon{
+    font-size:22px;
+    cursor:pointer;
+}
+
+.profile{
+    display:flex;
+    align-items:center;
+    gap:8px;
+}

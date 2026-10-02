@@ -1,0 +1,22 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+*.pyc
+
+# Database
+backend/*.db
+backend/*.sqlite
+backend/*.sqlite3
+
+# Node
+frontend/node_modules/
+frontend/dist/
+node_modules/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
